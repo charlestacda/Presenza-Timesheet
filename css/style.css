@@ -1,0 +1,132 @@
+.mg-100{
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+
+  .ml-10{
+    margin-left: 12px;
+    margin-right: 12px;
+    vertical-align: middle;
+  }
+  
+  .mg-50{
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .mg-40{
+    margin-top: 40px;
+  }
+  .mg-20{
+    margin-top: 20px;
+  }
+
+  .mg-10{
+    margin-top: 6px;
+  }
+
+  .mg-150{
+    margin-top: 140px;
+  }
+
+  .cntr{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+  }
+
+  .sub-color{
+    background-color: #D1E8E4;
+  }
+
+  .scolor{
+    color: #D1E8E4;
+  }
+
+  .tb-color{
+    background-color: #ECE2E1;
+  }
+
+  .btnc{
+    background-color: #A1CAE2;
+  }
+
+  .tcolor{
+    color: #1D668C;
+  }
+
+  .pbtn{
+    background-color: #ECE2E1;
+  }
+
+  .cmodal{
+    background-color: #E4DCCF;
+  }
+  #clock {
+    font-family: "Inter", sans-serif;
+    font-weight: bolder;
+    font-size: 96px;
+    color: rgb(29, 102, 140);
+  }
+  
+  #date {
+    font-family: "Inter", sans-serif;
+    font-weight: 20px;
+    font-size: 24px;
+    color: black;
+  }
+
+  #wrapper{
+    background-color: #1D668C;
+  }
+
+  .mainc{
+    background-color: #1D668C;
+  }
+
+  #content h5{
+    color: #D1E8E4;
+  }
+
+  .sidebar-brand-icon img{
+    width: 50px;
+  }
+
+  .sidebar-brand-text .com{
+    font-size: 10px;
+  }
+
+  .faq{
+    color: #D1E8E4;
+  }
+
+  .topbar #sidebarToggleTop:hover {
+    background-color: #A1CAE2;
+  }
+  
+  .topbar #sidebarToggleTop:active {
+    background-color: #A1CAE2;
+  }
+
+#deptDrop, #empBtn, .cbtn{
+    background-color: #A1CAE2;
+    color: #1D668C;
+}
+
+
+#form{
+    background-color: #D1E8E4; 
+    padding: 20px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+  @media (max-width: 907.5px){
+
+    #clock{
+      font-size: 50px;
+    }
+
+    #date{
+        font-size: 15px;
+    }
+  }
